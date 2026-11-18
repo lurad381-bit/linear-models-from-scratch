@@ -1,0 +1,7 @@
+pandas>=3.0
+numpy
+scikit-learn>=1.9
+scipy
+matplotlib
+jinja2
+jupyter
